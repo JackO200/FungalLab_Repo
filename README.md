@@ -1,2 +1,2 @@
-# Intro to Python, Bash, and Bioinformatics
-This is an intro course for Python, Bash, and the basics of bioinformatics. This will be a teaching and learning resource for various labs.
+# This GitHub Will Serve as a Place for All Programming Material and How Tos for the Fungal Lab at ORNL
+This will be a teaching and learning resource as well as *potentially* serving as a home for fungal lab code.
